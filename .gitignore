@@ -1,0 +1,16 @@
+*.pyc
+*.swp
+*.swo
+.Python
+.DS_Store
+/bin
+/include
+/lib
+.vscode
+wxpy.pkl
+temp/
+wxpy.log
+bilipic/
+bin
+include
+config.yml

@@ -1,0 +1,35 @@
+# 微信消息打印开关
+debug: True
+
+# 图灵apikey 暂未用到
+# tuling_apikey: 'api key'
+
+# 彩云token 彩云天气api token 
+# 彩云天气token 注册平台 https://dashboard.caiyunapp.com/v1/token/
+caiyun_token: "CaiYun token"
+
+# 聚合api key
+# 前往https://www.juhe.cn/ucenter/datacenter 申请 AppKey
+juhe_apikey: "juhe appkey"
+
+# location: "广州"
+
+# 地理位置 经度在前, 纬度在后
+# 彩云天气需要用到，用于具体位置的天气信息的获取
+geo_point: "104.0837670000,30.6303190000" 
+
+# 百度贴吧cookie 用于贴吧自动签到
+baidu_cookie: "Tieba cookie"
+
+# 公众号监听
+mps:
+  - "赤戟的书荒救济所"
+
+
+# mongodb 配置
+mongodb:
+  host: "localhost"
+  port: 27017
+
+# 朋友 *保留位置，为完成*
+friends:
